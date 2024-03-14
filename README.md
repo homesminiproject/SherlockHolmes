@@ -13,7 +13,8 @@ git branch developer1 <br>
 git branch developer2 <br>
 git branch developer3 <br> <br> <br>
 
-git push -f origin master(브런치 명) // push <br>
+git push -f origin main // push <br>
+git pull --allow-unrelated-histories origin main
 
 
 git remote -v <br>
