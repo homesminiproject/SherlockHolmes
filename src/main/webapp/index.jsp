@@ -8,7 +8,7 @@
 <meta charset="utf-8">
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>ì…œë¡HOMES</title>
+<title>¼È·ÏHOMES</title>
 <!-- plugins:css -->
 <link rel="stylesheet"
 	href="vendors/iconfonts/mdi/css/materialdesignicons.min.css">
@@ -58,8 +58,8 @@ a:hover {
 	<div class="text-center justify-content-center" style="margin-bottom:2rem">
         <a class="brand-logo" href="pages/general/main.jsp"><img src="images/HOMES.png" id="bigLogo"/></a>
        <a class="brand-logo" href="pages/general/main.jsp"  style="color: rgba(0, 0, 0, 0.9)">
-       <h1 id="logo">ì…œë¡HOMES</h1>
-       <h4 id="logo">â€•â€• ì „ì„¸ì‚¬ê¸° ì—†ì´ ì²­ì •í•œ â€•â€•</h4>
+       <h1 id="logo">¼È·ÏHOMES</h1>
+       <h4 id="logo">¡ª¡ª Àü¼¼»ç±â ¾øÀÌ Ã»Á¤ÇÑ ¡ª¡ª</h4>
        </a>
       </div>
       
@@ -69,7 +69,7 @@ a:hover {
 					<div class="card-body">
 						<a href="pages/user/userLogin.jsp"> <img
 							src="images/user.png" class="card-img-absolute" />
-							<h2 class="mb-5">ì¼ë°˜íšŒì› ë¡œê·¸ì¸</h2>
+							<h2 class="mb-5">ÀÏ¹ÝÈ¸¿ø ·Î±×ÀÎ</h2>
 					</div>
 					</a>
 				</div>
@@ -79,7 +79,7 @@ a:hover {
 					<div class="card-body">
 						<a href="pages/company/companyLogin.jsp"> <img
 							src="images/company.png" class="card-img-absolute" />
-							<h2 class="mb-5">ê³µì¸ì¤‘ê°œì‚¬ ë¡œê·¸ì¸</h2>
+							<h2 class="mb-5">°øÀÎÁß°³»ç ·Î±×ÀÎ</h2>
 					</div>
 					</a>
 				</div>
@@ -89,7 +89,7 @@ a:hover {
 					<div class="card-body">
 						<a href="pages/general/adminLogin.jsp"> <img src="images/admin.png"
 							class="card-img-absolute" />
-							<h2 class="mb-5">ê´€ë¦¬ìž ë¡œê·¸ì¸</h2>
+							<h2 class="mb-5">°ü¸®ÀÚ ·Î±×ÀÎ</h2>
 					</div>
 					</a>
 				</div>
